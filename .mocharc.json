@@ -1,0 +1,6 @@
+{
+  "reporter": "spec",
+  "slow": 100,
+  "timeout": 5000,
+  "watch-files": ["__tests__/**/*.js"]
+}
